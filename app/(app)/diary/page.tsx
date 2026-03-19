@@ -1,7 +1,7 @@
-export default function Home() {
+export default function Diary() {
 	return (
 		<div className="flex flex-col flex-1 items-center justify-center  font-sans dark:bg-black">
-				<h1>Mind tracker</h1>
+			<h2>diary</h2>
 		</div>
 	);
 }

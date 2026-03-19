@@ -1,7 +1,7 @@
-export default function Home() {
+export default function Register() {
 	return (
 		<div className="flex flex-col flex-1 items-center justify-center  font-sans dark:bg-black">
-				<h1>Mind tracker</h1>
+			<h2>register page</h2>
 		</div>
 	);
 }
